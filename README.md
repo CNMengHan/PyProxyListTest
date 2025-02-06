@@ -1,6 +1,6 @@
 # 🔍 PyProxyListTest
 
-**A High-Performance Proxy Server Testing Tool with Multi-Protocol Support**
+**A multi-protocol proxy server testing tool that supports HTTP, HTTPS, SOCKS4 and SOCKS5 protocols. Through concurrent testing and intelligent verification mechanisms, it can quickly detect the availability and latency of proxy servers. It is suitable for scenarios such as web crawlers, data collection and privacy protection.**
 
 ## 🚀 Features
 - **Protocol Diversity**: Tests proxies through 4 core protocols:
